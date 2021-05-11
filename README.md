@@ -1,1 +1,2 @@
-# isTouching_function.55661
+# collisionAlgorithm
+Algorithm to detect collision between two objects
